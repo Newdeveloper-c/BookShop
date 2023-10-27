@@ -1,2 +1,2 @@
-# Book_Store
-Book Store web-site for bookshop
+# Book_Shop
+Web-site for bookshop
